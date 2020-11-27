@@ -1,12 +1,11 @@
 # Tkinter-Timer-Draft
 #sqlite3 for database, tkinter as tk and webbroswer
-
+GREAT BUTTON ICONS HERE: https://findicons.com/search/button/14
 
 import sqlite3
 import tkinter as tk 
 import webbrowser
 
-#https://findicons.com/search/button/14
 class Timer:
     def __init__(self, root):
         self.root = root
