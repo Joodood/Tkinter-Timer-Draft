@@ -1,3 +1,6 @@
+pic: https://github.com/Joodood/Tkinter-Timer-Draft/issues/1#issue-788672398
+
+
 # Tkinter-Timer-Draft
 #sqlite3 for database, tkinter as tk and webbroswer
 GREAT BUTTON ICONS HERE: https://findicons.com/search/button/14
